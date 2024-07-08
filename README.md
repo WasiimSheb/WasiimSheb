@@ -1,11 +1,10 @@
 # Hi there, I'm Wasim Shebalny 👋
 
-Welcome to my GitHub profile! I'm a passionate software developer with a focus on C and C++ programming. Below you'll find a summary of my projects and interests.
+Welcome to my GitHub profile! I'm a passionate software developer with a focus on C, C++, Java programming. Below you'll find a summary of my projects and interests.
 
 ## About Me
 
 - 🌱 Currently learning: Advanced algorithms, automata theory, and operating systems.
-- 🎓 Majoring in cybersecurity at the university.
 - 👨‍💻 All of my projects are available at [My GitHub Repositories](https://github.com/WasiimSheb?tab=repositories)
 - 💬 Ask me about: C, C++, Java, networking protocols.
 - 📫 How to reach me: Wasimshebalny@gmail.com
