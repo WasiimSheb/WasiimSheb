@@ -32,6 +32,5 @@ Welcome to my GitHub profile! I'm a passionate software developer with a focus o
 ## Languages and Tools Diagram
 
 <p align="center">
-  <img src="URL_TO_YOUR_IMAGE" alt="Languages and Tools Diagram">
+  <img src="https://raw.githubusercontent.com/WasiimSheb/WasiimSheb/main/image.png" alt="Languages and Tools Diagram">
 </p>
-
