@@ -45,8 +45,8 @@ A comprehensive C++ library for graph algorithms and operations.
 ### [RUDP-CommLib](https://github.com/WasiimSheb/RUDP-CommLib)
 A reliable UDP communication library in C.
 
-### [TCPCommLib](https://github.com/WasiimSheb/TCPCommLib)
-A TCP communication library in C.
+### [QuicStream](https://github.com/WasiimSheb/QuicStream)
+A lightweight QUIC protocol implementation in Python.
 
 ### [HnefataflJava](https://github.com/WasiimSheb/Hnefatafl)
 A Java implementation of the ancient board game Hnefatafl.
