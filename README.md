@@ -1,11 +1,10 @@
-# Hi there, I'm Wasiim Shebalny 👋
+# Hi there, I'm Wasim Shebalny 👋
 
 Welcome to my GitHub profile! I'm a passionate software developer with a focus on C and C++ programming. Below you'll find a summary of my projects and interests.
 
 ## About Me
 
 - 🌱 Currently learning: Advanced algorithms, automata theory, and operating systems.
-- 🎓 Majoring in cybersecurity at the university.
 - 👨‍💻 All of my projects are available at [My GitHub Repositories](https://github.com/WasiimSheb?tab=repositories)
 - 💬 Ask me about: C, C++, Java, networking protocols.
 - 📫 How to reach me: Wasimshebalny@gmail.com
@@ -36,16 +35,3 @@ Welcome to my GitHub profile! I'm a passionate software developer with a focus o
   <img src="URL_TO_YOUR_IMAGE" alt="Languages and Tools Diagram">
 </p>
 
-## Projects
-
-### [GraphMaster-CPP](https://github.com/WasiimSheb/GraphMaster-CPP)
-A comprehensive C++ library for graph algorithms and operations.
-
-### [RUDP-CommLib](https://github.com/WasiimSheb/RUDP-CommLib)
-A reliable UDP communication library in C.
-
-### [TCPCommLib](https://github.com/WasiimSheb/TCPCommLib)
-A TCP communication library in C.
-
-### [HnefataflJava](https://github.com/WasiimSheb/Hnefatafl)
-A Java implementation of the ancient board game Hnefatafl.
