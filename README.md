@@ -1,6 +1,6 @@
 # Hi there, I'm Wasim Shebalny 👋
 
-Welcome to my GitHub profile! I'm a passionate software developer with a focus on C, C++, Java programming. Below you'll find a summary of my projects and interests.
+Welcome to my GitHub profile! I'm a passionate software developer with a focus on C and C++ programming. Below you'll find a summary of my projects and interests.
 
 ## About Me
 
