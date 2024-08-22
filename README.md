@@ -19,7 +19,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with a focus o
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=WasiimSheb&show_icons=true&theme=radical" alt="Wasiim's GitHub Stats">
+  #<img src="https://github-readme-stats.vercel.app/api?username=WasiimSheb&show_icons=true&theme=radical" alt="Wasiim's GitHub Stats">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=WasiimSheb&theme=radical" alt="Wasiim's GitHub Streak">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WasiimSheb&layout=compact&theme=radical" alt="Wasiim's Top Languages">
 </p>
