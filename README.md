@@ -10,7 +10,6 @@ Welcome to my GitHub profile! I'm a passionate software developer with a focus o
 
 <p align="center">
   <a href="https://www.linkedin.com/in/wasim-shebalny-9244bb25b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://x.com/ShebalnyWasim"><img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="X"></a>
 </p>
 
 ## GitHub Stats
