@@ -4,7 +4,7 @@ I'm a passionate software developer with a focus on C and C++ programming. Below
 
 ## About Me
 
-- 🌱 Currently learning: Advanced algorithms, Computability and Complexity Theory, and Deep Learning courses.
+- 🌱 Currently learning: Cryptography, Computability and Complexity Theory, and Radio based communications.
 
 ## Connect with Me
 
