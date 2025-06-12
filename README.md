@@ -1,4 +1,4 @@
-# Hi there, I'm Wasim Shebalny 👋
+# Hi, I'm Wasim
 
 I'm a passionate software developer with a focus on C and C++ programming. Below you'll find a summary of my projects and interests.
 
