@@ -6,12 +6,6 @@ A passionate software developer focusing on C and C++ programming. Below you'll 
 
 - 🌱 Currently learning: Cryptography, Computability and Complexity Theory, and Radio based communications.
 
-## Connect with Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/wasim-shebalny-9244bb25b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-</p>
-
 ## GitHub Stats
 
 <p align="center">
